@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.exe
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.deps.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.runtimeconfig.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\bin\Debug\net5.0\StringMethod2.pdb
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\refint\StringMethod2.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.pdb
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\StringMethod2.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod2\obj\Debug\net5.0\ref\StringMethod2.dll

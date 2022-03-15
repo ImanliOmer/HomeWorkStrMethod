@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.exe
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.deps.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.runtimeconfig.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\bin\Debug\net5.0\StringBuilder Revers Method.pdb
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\refint\StringBuilder Revers Method.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.pdb
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\StringBuilder Revers Method.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\StringBuilder Revers Method\obj\Debug\net5.0\ref\StringBuilder Revers Method.dll

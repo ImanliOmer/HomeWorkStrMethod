@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.exe
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.deps.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.runtimeconfig.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\bin\Debug\net5.0\StringMethod6.pdb
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\refint\StringMethod6.dll
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.pdb
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\StringMethod6.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Hometask4\StringMethods1\StringMethod6\obj\Debug\net5.0\ref\StringMethod6.dll

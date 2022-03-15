@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.exe
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.deps.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.runtimeconfig.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\bin\Debug\net5.0\stringbuilder1.pdb
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\refint\stringbuilder1.dll
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.pdb
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\stringbuilder1.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Hometask4\StringBuilder\stringbuilder1\obj\Debug\net5.0\ref\stringbuilder1.dll
